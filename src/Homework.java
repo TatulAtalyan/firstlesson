@@ -78,5 +78,14 @@ public class Homework {
         System.out.println(countOfEven);
 
 
+        // 10. Հայտարարել int -երի զանգված և լցնել այն։ Տպել 2-ի բաժանվող էլեմենտների քանակը։։
+
+        int[] array = {4, 5, 7, 8, 10};
+        for (int i=0; i < array.length; i++){
+            System.out.println(array[i]*5);
+        }
+
+
+
     }
 }
